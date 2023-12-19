@@ -1,6 +1,6 @@
 # Priyanshu Agrawal
 
-[![linkedin](https://img.shields.io/badge/-@priyanshua-161616?style=flat&labelColor=0077b5&logo=LinkedIn&logoColor=white&color=0077b5)](https://www.linkedin.com/in/jakegut/)  
+[![linkedin](https://img.shields.io/badge/-@priyanshua-161616?style=flat&labelColor=0077b5&logo=LinkedIn&logoColor=white&color=0077b5)](https://www.linkedin.com/in/priyanshua/)  
 
 I am a Computer Science and Electrical Engineering student at the University of Connecticut. I am an aspiring software engineer with interests in machine learning, robotics and controls. I am looking for internships for summer 2024.
 
