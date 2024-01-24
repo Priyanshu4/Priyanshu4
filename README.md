@@ -2,7 +2,7 @@
 
 [![linkedin](https://img.shields.io/badge/-@priyanshua-161616?style=flat&labelColor=0077b5&logo=LinkedIn&logoColor=white&color=0077b5)](https://www.linkedin.com/in/priyanshua/)  
 
-I am a Computer Science and Electrical Engineering student at the University of Connecticut. I am an aspiring software engineer with interests in robotics and machine learning. I am looking for internships for summer 2024.
+I am a Computer Science and Electrical Engineering student at the University of Connecticut. I am an aspiring software engineer with interests in robotics, embedded systems and machine learning. I am looking for internships for summer 2024.
 
 ## Experience
 **Software Engineering Intern** at [Raytheon BBN](https://www.rtx.com/who-we-are/we-are-rtx/transformative-technologies/bbn) during the summer of 2023. I developed C++ tools to test signal processing hardware.
