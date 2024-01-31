@@ -4,7 +4,7 @@
 
 I am a Computer Science and Electrical Engineering student at the University of Connecticut. I am an aspiring software engineer with interests in robotics, embedded systems and machine learning. I am looking for internships for summer 2024.
 
-## Experience
+## Work Experience
 **Software Engineering Intern** at [Raytheon BBN](https://www.rtx.com/who-we-are/we-are-rtx/transformative-technologies/bbn) during the summer of 2023. I developed C++ tools to test signal processing hardware.
 
 **Undergraduate Research Assistant** at the [Pratt & Whitney Institute of Advanced Systems Engineering](https://iase.engr.uconn.edu/) during the 2022-2023 school year. I developed an interface allowing real time data to be collected directly from an autonomous rover into modeling software on a ground control base station computer.
@@ -14,7 +14,7 @@ I am a Computer Science and Electrical Engineering student at the University of 
 ## Projects
 Manipulator Motion Planning Research (Ongoing) - I am currently working with a robotics professor to independently research motion planning algorithms for manipulators used in manufacturing.
 
-[Fake Review Farm Detection](https://github.com/Priyanshu4/Fake-Review-Farm-Detection) - For a machine learning course, a friend and I implemented and tested an approach to detect groups of fake reviewers. Our approach uses graph convolution and hierarchical clustering to detect anomalously dense groups of similar users in a bipartite graph which represents interactions between users and items.
+[Fake Review Farm Detection](https://github.com/Priyanshu4/Fake-Review-Farm-Detection) - For a machine learning course, I implemented and tested an approach to detect groups of fake reviewers on e-commerce websites. I used graph convolution and hierarchical clustering to detect anomalously dense groups of similar users in a bipartite graph which represents interactions between users and items.
 
 [Daily Trivia](https://github.com/Priyanshu4/H2O-daily-trivia) - Using a Raspberry Pi Pico and a 2 inch LCD screen, I built a game to decorate the outside of my dorm room door. Residents walking by can answer a new trivia question each day by pressing a button to select their response.
 
