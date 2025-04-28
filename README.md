@@ -1,8 +1,7 @@
 # Priyanshu Agrawal
 
 [![linkedin](https://img.shields.io/badge/-@priyanshua-161616?style=flat&labelColor=0077b5&logo=LinkedIn&logoColor=white&color=0077b5)](https://www.linkedin.com/in/priyanshua/)  
-
-I am a Computer Science and Electrical Engineering student at the University of Connecticut. I have strong software engineering skils with experience in embedded systems, robotics and machine learning. 
+I am a Computer Science and Electrical Engineering student at the University of Connecticut. I have strong software engineering skils with experience in embedded systems,  machine learning, robotics and autonomy.
 
 ## Work Experience
 **Firmware Engineering Intern** at [Alarm.com](https://www.alarm.com) during the summer of 2024. I developed firmware for a new variant of the [System Enhancement Module](https://sem.poweredbyalarm.com/), an IoT device which connects legacy security panels to the Alarm.com platform over 4G LTE.
@@ -13,20 +12,3 @@ I am a Computer Science and Electrical Engineering student at the University of 
 communicate with an autonomous rover in real time.
 
 **Test Software Engineering Intern** at [Butterfly Network](https://www.butterflynetwork.com/) during the summer of 2022. I developed a Flask web app allowing test operators to easily configure and monitor multiple test programs for Butterfly IQ ultrasound probes.
-
-## Projects
-Manipulator Motion Planning Research (Ongoing) - I am currently working with a robotics professor to independently research motion planning algorithms for industrial manipulators.
-
-[Fake Review Farm Detection](https://github.com/Priyanshu4/Fake-Review-Farm-Detection) - For a machine learning course, I implemented and tested an approach to detect groups of fake reviewers on e-commerce websites. I used graph convolution and hierarchical clustering to detect anomalously dense groups of similar users in a bipartite graph which represents interactions between users and items.
-
-[Daily Trivia](https://github.com/Priyanshu4/H2O-daily-trivia) - Using a Raspberry Pi Pico and a 2 inch LCD screen, I built a game to decorate the outside of my dorm room door. Residents walking by can answer a new trivia question each day by pressing a button to select their response.
-
-[Propositional Calculus](https://github.com/Priyanshu4/Propositional-Calculus) - For my discrete math course, I developed a Python package which can parse propositional logic expressions and check the validity of a logical argument.
-
-[Raspberry Pi Robot](https://github.com/Priyanshu4/RPiRobot) - I built a 4-wheeled differential drive robot with a Raspberry Pi. The Raspberry Pi hosts a web server which streams live camera feed and allows the robot to be controlled remotely. Using OpenCV, the robot can also detect a colored line and autonomously follow it.
-
-[Chess](https://github.com/Priyanshu4/Chess) - I developed a chess program in Java. It has a basic AI which uses a minimax search algorithm with alpha-beta pruning.
-
-
-
-
